@@ -1,0 +1,4 @@
+setxkbmap latam &
+thunar --daemon &
+synclient VertEdgeScroll=1 &
+synclient TapButton1=1 &
