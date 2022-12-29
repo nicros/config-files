@@ -5,10 +5,9 @@
 # If not running interactively, don't do anything
 [[ $- != *i* ]] && return
 
-alias ls='exa'
-alias ls='ls --color=auto'
-alias ll='ls -l'
-alias la='ls -la'
+alias ls='exa --color=auto'
+alias ll='exa -l'
+alias la='exa -la'
 alias grep='grep --color=auto'
 alias pacman='sudo pacman'
 
