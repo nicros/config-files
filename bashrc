@@ -5,6 +5,7 @@
 # If not running interactively, don't do anything
 [[ $- != *i* ]] && return
 
+alias ls='exa'
 alias ls='ls --color=auto'
 alias ll='ls -l'
 alias la='ls -la'
