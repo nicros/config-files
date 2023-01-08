@@ -1,7 +1,4 @@
 #!/bin/bash
-#
-# Nicros | https://nicros.net
-# Script para setear wallpapers aleatorios desde un directorio
 
 # Wallpapers dir
 FEH_DIR="$HOME/Wallpapers"
@@ -16,7 +13,7 @@ FEH_TIME=600
 # --bg-max
 # --bg-scale
 # --bg-tile
-# Man page https://linux.die.net/man/1/feh
+# Man page https://manpages.org/feh
 FEH_OPT="--bg-center"
 
 while true
