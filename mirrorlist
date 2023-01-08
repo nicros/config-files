@@ -1,0 +1,2 @@
+Server = http://mirror.ufro.cl/archlinux/$repo/os/$arch
+Server = http://mirror.archlinux.cl/$repo/os/$arch
